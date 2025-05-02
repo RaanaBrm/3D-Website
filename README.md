@@ -1,1 +1,1 @@
-# 3D-Website
+for running the project : npm i
